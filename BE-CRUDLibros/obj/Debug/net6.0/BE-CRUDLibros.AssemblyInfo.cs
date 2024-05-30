@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BE-CRUDLibros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+201c4a233fdeb341b17510d5e0398ed71a8d20d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BE-CRUDLibros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BE-CRUDLibros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
